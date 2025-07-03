@@ -8,5 +8,5 @@ with open("dor.json", "r") as f:
 st.title("My Chat App 🤖")
 
 for q in data:
-    st.subheader(f"Q: {q['question']}")
-    st.write(f"A: {q['answer']}")
+    st.subheader(f"Q: {0['question']}")
+    st.write(f"A: {0['answer']}")
